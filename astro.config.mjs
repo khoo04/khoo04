@@ -6,6 +6,7 @@ import tailwindcss from "@tailwindcss/vite";
 export default defineConfig(
   {
   site: 'https://khoo04.github.io',
+  base: '/khoo04',
   vite: {
     plugins: [tailwindcss()],
   },
