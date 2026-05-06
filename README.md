@@ -18,7 +18,7 @@ I am a Computer Science student at **Universiti Teknikal Malaysia Melaka (UTeM)*
 *   **Languages:** Python, Java, C#, Dart, PHP, JavaScript, TypeScript.
 *   **Mobile & Web:** Flutter, Vue.js, React, Android Development.
 *   **AI & Backend:** SigLip2, Gemini API, Dialogflow, Genetic Algorithms, Laravel, Django, Flask.
-*   **Design Patterns:** MVVM, RESTful API Development.
+*   **Design Patterns:** MVC, MVVM, RESTful API Development.
 
 ---
 
@@ -26,12 +26,6 @@ I am a Computer Science student at **Universiti Teknikal Malaysia Melaka (UTeM)*
 *   **[EchoPlan](https://github.com/khoo04)**: Intelligent Task Manager for Visually Impaired Users using Dialogflow and Genetic Algorithms.
 *   **[GoGreen](https://github.com/khoo04/waste-classification-app-go-green)**: AI waste classifier using SigLip2 and Gemini API.
 *   **[RideNow](https://github.com/khoo04/Ride-Now)**: Android carpooling application built with Flutter and Laravel.
-
----
-
-### 📊 GitHub Stats
-![Khoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=khoo04&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khoo04&layout=compact&theme=transparent)
 
 ---
 
