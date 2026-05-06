@@ -35,7 +35,7 @@ export const siteConfig = {
       name: "GoGreen",
       description:
         "An AI-based waste classification and carbon savings tracking mobile application. It utilizes the SigLip2 vision-language model for waste classification and integrates the Gemini API to provide users with personalized, AI-generated disposal tips based on identified items.",
-      image: "/khoo04/images/go_green_app_logo.png",
+      image: "/images/go_green_app_logo.png",
       links: [
         { label: "Frontend", url: "https://github.com/khoo04/waste-classification-app-go-green" },
         { label: "Backend", url: "https://github.com/khoo04/waste-classification-api" },
@@ -47,7 +47,7 @@ export const siteConfig = {
       description:
         "An Android carpooling mobile application developed as a Diploma project. It facilitates efficient ride-sharing through a high-performance Flutter interface and a robust RESTful API backend built with Laravel.",
       link: "https://github.com/khoo04/Ride-Now",
-      image: "/khoo04/images/ride_now_logo.png",
+      image: "/images/ride_now_logo.png",
         links: [
         { label: "Frontend", url: "https://github.com/khoo04/Ride-Now" },
         { label: "Backend", url: "https://github.com/khoo04/prim-development-ride-now-app" },
