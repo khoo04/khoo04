@@ -3,7 +3,7 @@
 ### 🚀 Software Developer & AI Specialist
 I am a Computer Science student at **Universiti Teknikal Malaysia Melaka (UTeM)** specializing in **Artificial Intelligence**. I build intelligent, full-stack applications that bridge the gap between robust architecture and advanced machine learning optimization.
 
-[**🌐 View My Portfolio Website**](https://khoo04.github.io)
+[**🌐 View My Portfolio Website**](https://khoo04.github.io/khoo04)
 
 ---
 
